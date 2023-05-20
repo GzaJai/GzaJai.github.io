@@ -240,7 +240,7 @@ footer{
 }
 
 /* Colapso de pagina */
-@media screen and (max-width:412px){
+@media screen and (max-width:500px){
   .menu-navegacion a{
     margin-left: 10px;
     font-size: 15px;
